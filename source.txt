@@ -1,0 +1,42 @@
+"dwarf-escape" by "stereo"
+
+release along with a website, source text, library card and an interpreter.
+
+cave is a room.
+
+cave is below cabin.
+
+6dwarfes are in cave.
+6dwarfes is a person.
+
+instead of attacking 6dwarfes, say "bloss nicht."
+
+a red apple is in cabin.
+
+chest is in cabin. 
+chest is a container.
+chest is closed and openable.
+
+
+pizza is in cabin.
+pizza is edible.
+the description of pizza is "6dwarfes always eat pizza".
+
+wooden door is a door
+
+wooden door is east of cabin
+
+
+snow white is in cave
+
+6dwarfes wears purple trousers.
+
+garden is a room.
+garden is east of wooden door.
+
+after closing the wooden door:
+	if the player is in garden:
+		end the story.
+
+
+draussen is south of garden.
