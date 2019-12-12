@@ -17,6 +17,8 @@ chest is in cabin.
 chest is a container.
 chest is closed and openable.
 
+kaesekuchen is in chest. the description is "hmm... stefans."
+
 
 pizza is in cabin.
 pizza is edible.
